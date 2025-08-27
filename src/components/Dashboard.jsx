@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import img from '../assets/images/credit.svg'
-import cardimg from '../assets/images/group123.svg'
+import cardimg from '../assets/images/Group123.svg'
 import {
   MdOutlineCreditCard,
   MdExpandMore,
